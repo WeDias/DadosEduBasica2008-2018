@@ -1,0 +1,14 @@
+
+	Dentro da pasta 2008_2018, baixe e extraia os arquivos do Censo Escolar de 2008 até 2018;
+	Arquivos disponíveis em: http://portal.inep.gov.br/microdados
+	Abrir as pastas de cada ano e na subpasta DADOS, extrair somente ESCOLAS e TURMAS.
+
+	Ex.: Caminho de acesso dos arquivos:
+		2008_2018/2008/DADOS/ESCOLAS.csv
+		2008_2018/2008/DADOS/TURMAS.csv
+			    (...)
+		2008_2018/2018/DADOS/ESCOLAS.csv
+		2008_2018/2018/DADOS/TURMAS.csv
+
+	*Se o arquivo saida.csv estiver existente, a análise não será feita para economizar tempo,
+	 então se seu objetivo é executar o código completo, exclua saida.csv, ou altere qualquer dado desse arquivo.
