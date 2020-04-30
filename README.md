@@ -7,5 +7,6 @@ Foram análisados alguns dados sobre as escolas de educação básica no Brasil 
 
 ---
 ###### 📈 Para visualizar a análise completa [*Clique aqui*](https://github.com/WeDias/DadosEduBasica2008-2018/blob/master/2008_2018/Analise.ipynb)
+###### 📈 Caso o link acima não carregue [*Clique aqui*](https://github.com/WeDias/DadosEduBasica2008-2018/blob/master/2008_2018/Analise.pdf)
 ###### 📃 Fonte: [*INEP, Censo Escolar 2008-2018*](http://portal.inep.gov.br/microdados)
 ###### ✏️ Desenvolvido por: [*Wesley Dias*](https://github.com/WeDias)
