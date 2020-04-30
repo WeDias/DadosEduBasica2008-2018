@@ -1,4 +1,2 @@
 pandas
 matplotlib
-hashlib
-datetime
